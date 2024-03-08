@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/SZ+96D6AA26/W3Ay8ej+UtJTjm1S6+CrNAEZCz2uDO/X/wr5EeGSPMGLwUCl9FE7E3IqT8A7vVgZJqLQq0BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanif\\source\\repos\\PercobaanApi1\\PercobaanApi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanif\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hanif\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hanif\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\hanif\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\hanif\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\hanif\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
